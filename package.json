@@ -1,0 +1,23 @@
+{
+  "name": "surya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya4186/surya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya4186/surya/issues"
+  },
+  "homepage": "https://github.com/surya4186/surya#readme",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.36"
+  }
+}
